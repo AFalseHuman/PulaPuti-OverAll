@@ -1,0 +1,15 @@
+{
+   "balance": {
+      "chips": 30,
+      "withdrawable": 50
+   },
+   "id": "889152038263455764",
+   "inviter": "748057805453525034",
+   "invites": [],
+   "total": {
+      "deposit": 10,
+      "withdraw": 0
+   },
+   "dateJoined": "2021-09-30 11:10:09",
+   "withdraw_info": {}
+}
